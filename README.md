@@ -19,8 +19,8 @@ O modelo foi treinado para detectar os seguintes personagens:
 
 ## 🗂️ Dataset
 
-- 📸 150 imagens estáticas
-- 📐 Tamanho médio: 450px
+- 📸 Pouco mais de 100 imagens para 4 pessoas
+- 📐 Tamanho de médio a pequeno das imagens
 - ⚠️ Dataset limitado, criado exclusivamente para fins didáticos
 - 🏷️ Labels manuais com foco em precisão nas coordenadas dos bounding boxes
 
